@@ -1,0 +1,15 @@
+name = 'sencilla'
+license = 'MIT'
+licenselink = 'https://github.com/pxwxnvermx/sencilla/LICENSE'
+description = 'sencilla'
+
+homepage = 'https://github.com/pxwxnvermx/sencilla'
+
+# demosite = 'https://owner.github.io/repo'
+
+tags = ['blog', 'personal']
+features = ['minimal', 'low-css']
+
+[author]
+  name = 'Pawan Verma'
+  homepage = 'https://pxwxnvermx.in'
